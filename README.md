@@ -23,6 +23,9 @@ Le projet explore les hypothèses de recherche suivantes :
 * `/notebooks` : Scripts d'analyse exploratoire et de traitement des données.
 * `/visualizations` : Graphiques et cartographies de la chaîne de valorisation.
 * `/docs` : Rapports techniques et synthèse des résultats.
-
+  
+## NB: Pour voir les graphiques, consulter le notebook:eleveur.ipynb
 ---
 *Projet réalisé par Seydou Hamadou Djibrilla - Ingénieur Agronome & Data Analyst.
+
+
